@@ -1,9 +1,9 @@
 # Covid-19-India-EDA
 EXPLORATORY DATA ANALYSIS OF COVID 19 INDIA DATASET¶ THIS DATA SET IS COLLECTED FROM - https://www.kaggle.com/sudalairajkumar/covid19-in-india  
 
-KAGGLE LINK OF THIS PROJECT:  
+KAGGLE LINK OF THIS PROJECT:  https://www.kaggle.com/diptaraj23/eda-of-covid-india
 
-GITHUB LINK OF THIS PROJECT: 
+GITHUB LINK OF THIS PROJECT: https://github.com/diptaraj23/Covid-19-India-EDA
 
 ##### NOTE : This dataset is getting updated continuously in the given link above. I download the dataset in .CSV format on [22 ‎April ‎2021, ‏‎22:34:41].  
 
